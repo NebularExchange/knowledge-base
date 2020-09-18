@@ -3,4 +3,4 @@ Contiene documentación de la especificación funcional y técnica de la platafo
 
 ### Contenido.
 
-* Workshops:  Contiene el material de trabajo, insights y obtenido durante las sesiones de conceptualización.
+* Workshops:  Contiene el material de trabajo, insights y definiciones obtenidas durante las sesiones de conceptualización.
