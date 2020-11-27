@@ -1,3 +1,39 @@
+2020-11-26  UI Design  \<ui@tcpip.tech\>
+
+## Pago de Servicios
+* "Pago de Servicios 7": Se agregó la pantalla de listado de pagos domiciliados
+* "Domiciliación automática 2": Se agregó una página de resumen del pago.
+
+## Domiciliación Manual
+* Refinamiento general del flujo completo"
+* Domiciliación manual - Inicio": Se agregó un apartado para mostrar el listado de los pagos domiciliados
+* "Domiciliación 03": Cambios de inputs en las el flujo y se agregó la imagen del recibo que previamente escaneóDomiciliación Automática
+* "Domiciliación automática 01": Se agregó la columna de alias
+* "Domiciliación automática 02": Se agregaron los campos de Alias.
+
+## Solicitud de Tarjeta
+* "Tarjeta Inicio": se agregó botón de "Solicitar tarjeta Nebular Física"
+* "Tarjeta Inicio" Se unificó la página de datos de tu tarjeta con los datos de pago.
+
+## Configuración de Tarjeta
+* "Tarjeta config 04": Se agregó un input de "Confirmar número de PIN"
+* "Tarjeta config 07": Se agregó la opción de "Bloquear tarjeta"
+* "Tarjeta config 8" Se creó una nueva página con formulario para decir por que se Bloqueo la tarjeta
+
+## Depositar a mi cuenta Nebular
+* "Fondeo de cuentas 3": Unificación de Diseño con el resto del Flujo
+
+## Agenda
+* General se modificó el flujo de Agenda donde primero se muestran un listado de todos los contactos ya registrados
+* "Agenda Inicio y Agenda 01" Se hicieron cambios en los textos de la página  para que se entiendan mejor y simplificó la sección de "agregar cuenta" agregando la opción de "Cuenta Nebular"
+
+## Red de colaboradores
+* "Red de Colaboradores 01" Se convirtió la sección de " unirme a una red" en botón y se incorporó al conjunto de botones "Compartir en redes y Crea tu red de colaboradores"
+
+## Exchange
+* General: Se agregó un menú superior con todas las páginas de Exchange. (Dashboard, Cartera, Trading, Lending, Staking, inversiones, DEFI)
+
+
 2020-11-25  UI Design  \<ui@tcpip.tech\>    
 
 ## Dashboard:
