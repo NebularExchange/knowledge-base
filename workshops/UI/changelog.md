@@ -1,4 +1,4 @@
-2020-11-26  UI Design  \<ui@tcpip.tech\>
+# 2020-11-26  UI Design  \<ui@tcpip.tech\>
 
 ## Pago de Servicios
 * "Pago de Servicios 7": Se agregó la pantalla de listado de pagos domiciliados
@@ -34,7 +34,7 @@
 * General: Se agregó un menú superior con todas las páginas de Exchange. (Dashboard, Cartera, Trading, Lending, Staking, inversiones, DEFI)
 
 
-2020-11-25  UI Design  \<ui@tcpip.tech\>    
+# 2020-11-25  UI Design  \<ui@tcpip.tech\>    
 
 ## Dashboard:
 
