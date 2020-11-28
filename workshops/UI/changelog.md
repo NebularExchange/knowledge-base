@@ -1,3 +1,21 @@
+# 2020-11-27  UI Design  \<ui@tcpip.tech\>
+
+## Exchange
+
+* General Se modificó el menú superior agregando "DeFi" y "Comprar / Vender divisas" 
+
+## Compra / Venta
+
+* "Compra Cripto /Fiat" Se modificó la sección "comprar Divisa" para que se entendiera mejor al usuario.
+* "Compra Cripto/ Fiat Tarjeta 05" Sea agregaron textos de "disponibilidad de divisas" y " Comisión del X%" debajo de cada casilla.
+* "Compra Cripto/ Fiat Tarjeta 04" Se cambió la sección de "tarjeta bancaria"
+* General en Exchange se cambió el menú superior actualizado a todas las pantallas de Exchange. 
+
+## DeFi
+
+* Se creó la sección de DeFi
+
+
 # 2020-11-26  UI Design  \<ui@tcpip.tech\>
 
 ## Pago de Servicios
