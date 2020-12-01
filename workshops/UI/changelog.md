@@ -1,3 +1,12 @@
+# 2020-11-30  UI Design  \<ui@tcpip.tech\>
+
+## Inicio de sesión
+* Se creó la sección de inicio de sesión
+
+## Registro cuenta Nebular
+* Se creó la sección de "Registro"
+
+
 # 2020-11-27  UI Design  \<ui@tcpip.tech\>
 
 ## Exchange
