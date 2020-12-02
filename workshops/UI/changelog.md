@@ -1,3 +1,12 @@
+# 2020-12-01  UI Design  \<ui@tcpip.tech\>
+
+## Registro
+* Se comcluye flujo de Registro
+
+## Recuperar contraseña 
+* Se inicia maquetado del flujo Recuperar contraseña
+
+
 # 2020-11-30  UI Design  \<ui@tcpip.tech\>
 
 ## Inicio de sesión
