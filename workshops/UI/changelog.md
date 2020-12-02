@@ -1,7 +1,7 @@
 # 2020-12-01  UI Design  \<ui@tcpip.tech\>
 
 ## Registro
-* Se comcluye flujo de Registro
+* Se concluye flujo de Registro
 
 ## Recuperar contraseña 
 * Se inicia maquetado del flujo Recuperar contraseña
