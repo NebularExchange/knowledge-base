@@ -1,3 +1,14 @@
+# 2020-12-02  UI Design  \<ui@tcpip.tech\>
+
+## DEFI
+* Se crea flujo DEFI para dispositivos moviles
+
+## General
+* Se han organizado las ideas del feedback recibido por Pablo
+* Se han definido las app a clonar para cada flujo y se han importado las de coinbase, transferwise, y Binance
+* Se ha organizado el menú de dispositivos moviles.
+
+
 # 2020-12-01  UI Design  \<ui@tcpip.tech\>
 
 ## Registro
