@@ -1,3 +1,30 @@
+# 2020-12-03  UI Design  \<ui@tcpip.tech\>
+
+## Inicio de sesión:
+Se eliminó la página de "seleccionar como quieres ingresar" ya que solo se podrá ingresar a la plataforma vía correo electrónico o Teléfono móvil.
+
+## Inicio de sesión:
+se agregaron 4 pantallas mostrando las cualidades de la App
+
+## Crear una cuenta: 
+Se complementó esta sección separando en varias pantallas todo el formulario de registro, también se agregó el flujo de "confirmar telefóno móvil" (similar a como lo hace N26)
+
+## Recuperación de contraseña
+Se agregó el flujo de "Recuperar contraseña" vía SMS donde el usuario podrá escribir un código para asi poder asignar otra contraseña a su cuenta Nebular
+
+## Verificación de DNI
+Se creó la sección de "Verificar DNI" para validar la identidad del usuario al momento de crear una cuenta, se creó la pantalla de bienvenida, la pantalla donde se toma la fotografía del DNI y la pantalla donde vía OCR se muestran los datos capturados de la DNI para que pueda el usuario revisarlos y editarlos en caso que sea necesario.
+
+## Depósito a mi cuenta Nebular
+Maquetado igual que transferwise.
+
+## Movimientos
+Maquetado igual que transferwise
+
+## Compra de criptomonedas
+50% de avance en el flujo, maquetando igual que coinbase
+
+
 # 2020-12-02  UI Design  \<ui@tcpip.tech\>
 
 ## DEFI
