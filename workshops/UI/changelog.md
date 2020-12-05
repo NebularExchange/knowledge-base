@@ -1,3 +1,9 @@
+# 2020-12-04  UI Design  \<ui@tcpip.tech\>
+
+## Asociar cuenta bancaria:
+Se crea flujo para asociar cuentas bancarias para consulta de saldo y movimiento en otras plataformas. Basado en Fintonic.
+
+
 # 2020-12-03  UI Design  \<ui@tcpip.tech\>
 
 ## Inicio de sesión:
