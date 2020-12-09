@@ -1,3 +1,7 @@
+# 2020-12-08  UI Design  \<ui@tcpip.tech\>
+Se cambia modo diurno pantallas de Binance.
+
+
 # 2020-12-04  UI Design  \<ui@tcpip.tech\>
 
 ## Asociar cuenta bancaria:
