@@ -1,3 +1,12 @@
+
+# 2020-12-09  UI Design  \<ui@tcpip.tech\>
+
+## Creacion y verificacion de identidad
+Se terminaron de pasar las pantallas de los screenshots de la secciones de:
+Inicio de sesión
+Creación de cuenta
+Verificación de identidad
+
 # 2020-12-08  UI Design  \<ui@tcpip.tech\>
 Se cambia modo diurno pantallas de Binance.
 
