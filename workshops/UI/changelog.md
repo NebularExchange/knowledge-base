@@ -1,6 +1,16 @@
 
 # 2020-12-09  UI Design  \<ui@tcpip.tech\>
 
+## Flujos finalizados
+* Tarjetas - Revolut
+* Niveles VIP - Revolut
+* Transferencias - Revolut
+* Lending - Celsius / Coinigy
+* DeFi - Binance
+
+
+# 2020-12-09  UI Design  \<ui@tcpip.tech\>
+
 ## Creacion y verificacion de identidad
 Se terminaron de pasar las pantallas de los screenshots de la secciones de:
 Inicio de sesión
