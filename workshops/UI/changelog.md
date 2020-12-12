@@ -1,5 +1,11 @@
+# 2020-12-11  UI Design  \<ui@tcpip.tech\>
 
-# 2020-12-09  UI Design  \<ui@tcpip.tech\>
+## Flujos finalizados
+* Exchange básico
+* Recuperar constraseña
+
+
+# 2020-12-10  UI Design  \<ui@tcpip.tech\>
 
 ## Flujos finalizados
 * Tarjetas - Revolut
