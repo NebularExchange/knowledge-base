@@ -1,5 +1,8 @@
-# 2020-12-11  UI Design  \<ui@tcpip.tech\>
+# 2020-12-14  UI Design  \<ui@tcpip.tech\>
+## Flujos finalizados
+* Se ha unificado diseño de pantallas de los flujos inicio de sesión y registro.
 
+# 2020-12-11  UI Design  \<ui@tcpip.tech\>
 ## Flujos finalizados
 * Exchange básico
 * Recuperar constraseña
