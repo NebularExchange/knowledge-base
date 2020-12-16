@@ -1,3 +1,13 @@
+# 2020-12-16  UI Design  \<ui@tcpip.tech\>
+## Flujos nebulizados
+Se han unificado los siguientes flujos:    
+* Tarjeta Nebular 40% de avance
+* Dashboard Inicio  
+* Domiciliación    
+* Identidad    
+* Movimientos    
+* Depositar a mi cuenta Nebular
+
 # 2020-12-14  UI Design  \<ui@tcpip.tech\>
 ## Flujos finalizados
 * Se ha unificado diseño de pantallas de los flujos inicio de sesión y registro.
