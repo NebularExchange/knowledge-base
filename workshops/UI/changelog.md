@@ -7,6 +7,7 @@ Se han unificado los siguientes flujos:   
 * Identidad    
 * Movimientos    
 * Depositar a mi cuenta Nebular
+* Pago de Servicios
 
 # 2020-12-14  UI Design  \<ui@tcpip.tech\>
 ## Flujos finalizados
