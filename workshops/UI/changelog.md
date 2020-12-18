@@ -1,3 +1,12 @@
+# 2020-12-17  UI Design  \<ui@tcpip.tech\>
+## Flujos nebulizados
+* Depositos a cuentas
+* Domiciliacion II
+* Consulta de Movimientos II
+* Transferencias y remesas
+* Asociar cuenta bancaria
+* Configuración de la App
+
 # 2020-12-16  UI Design  \<ui@tcpip.tech\>
 ## Flujos nebulizados
 Se han unificado los siguientes flujos:    
