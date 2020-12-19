@@ -1,3 +1,10 @@
+# 2020-12-18  UI Design  \<ui@tcpip.tech\>
+## Flujos nebulizados
+* Asociar con Entidad Bancaria
+* Compra y venta  de criptomonedas
+* Exchange.
+
+
 # 2020-12-17  UI Design  \<ui@tcpip.tech\>
 ## Flujos nebulizados
 * Depositos a cuentas
