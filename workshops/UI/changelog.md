@@ -1,3 +1,8 @@
+# 2020-12-30  UI Design  \<ui@tcpip.tech\>
+## Flujos nebulizados
+* Exchange Basico
+* Exchange Experto.
+
 # 2020-12-18  UI Design  \<ui@tcpip.tech\>
 ## Flujos nebulizados
 * Asociar con Entidad Bancaria
