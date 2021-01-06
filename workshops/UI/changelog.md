@@ -1,3 +1,8 @@
+# 2021-01-05  UI Design  \<ui@tcpip.tech\>
+## Flujos nebulizados
+* Exchange Basico - Flujo base.
+* Exchange Experto - Flujo base.
+
 # 2020-12-30  UI Design  \<ui@tcpip.tech\>
 ## Flujos nebulizados
 * Exchange Basico
