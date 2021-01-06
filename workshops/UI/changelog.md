@@ -1,3 +1,8 @@
+# 2021-01-06  UI Design  \<ui@tcpip.tech\>
+## Flujos nebulizados
+* Red Colaboradores - Completo
+* Financiamientos
+
 # 2021-01-05  UI Design  \<ui@tcpip.tech\>
 ## Flujos nebulizados
 * Exchange Basico - Flujo base.
