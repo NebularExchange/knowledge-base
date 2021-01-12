@@ -1,3 +1,9 @@
+# 2021-01-11  UI Design  \<ui@tcpip.tech\>
+## Flujos nebulizados
+* Inicio de flujos para Web
+  * Inicio sesion
+  * Recuperar contraseña
+
 # 2021-01-06  UI Design  \<ui@tcpip.tech\>
 ## Flujos nebulizados
 * Red Colaboradores - Completo
