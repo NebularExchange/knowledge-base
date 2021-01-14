@@ -1,3 +1,8 @@
+# 2021-01-13  UI Design  \<ui@tcpip.tech\>
+## Flujos nebulizados Web
+* Creacion de cuenta parte 2
+
+
 # 2021-01-12  UI Design  \<ui@tcpip.tech\>
 ## Flujos nebulizados Web
 * Creacion de cuenta parte 1
