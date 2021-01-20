@@ -1,3 +1,7 @@
+# 2021-01-19  UI Design  \<ui@tcpip.tech\>
+## Flujos nebulizados Web
+* Tarjetas parte 1.
+
 # 2021-01-15  UI Design  \<ui@tcpip.tech\>
 ## Flujos nebulizados Web
 * Transferencias parte 1.
